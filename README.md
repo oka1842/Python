@@ -1,3 +1,3 @@
 Python files and explanations are available in English and Japanese.
 
-英語版と日本語版のPythonファイルと説明があります。
+Python ファイルと説明は英語と日本語で利用可能です。
